@@ -3,6 +3,8 @@
 //public class jdbc_insertion {
 //}
 package jdbcTest;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
 import java.sql.*;
 public class jdbc_insertion {
     public static void main(String[] args) {
@@ -14,8 +16,13 @@ public class jdbc_insertion {
             Connection con = DriverManager.getConnection(url,username,password) ;
             String q = "INSERT INTO TABLE1(TNAME,TCITY) VALUES (?,?)" ;
             PreparedStatement pstmt = con.prepareStatement(q) ;
-            pstmt.setString(1,"pantera");
-            pstmt.setString(2,"nyc");
+            BufferedReader br = new BufferedReader( new InputStreamReader(System.in)) ;
+            System.out.println("ENTER NAME:");
+            String name = br.readLine() ;
+            System.out.println("enter city:");
+            String city = br.readLine() ;
+            pstmt.setString(1,name);
+            pstmt.setString(2,city);
             pstmt.executeUpdate() ;
             System.out.println("inserted.......");
             con.close() ;
