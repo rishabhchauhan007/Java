@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22e55e02-c1cf-43c9-a34e-0a41c96b2607" name="Changes" comment="" />
+    <list default="true" id="22e55e02-c1cf-43c9-a34e-0a41c96b2607" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_33.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/s.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/Oops_abstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/Oops_encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/Oops_inheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/exceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/genPrac.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/jvmWorking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/new_program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/objectClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/pogrom_practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/threadPractical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbcTest/jdbc_insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jdbcTest/jdbc_insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jdbcTest/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/bonami/Documents/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bonami/IdeaProjects/helloWorld&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.helloworld" />
